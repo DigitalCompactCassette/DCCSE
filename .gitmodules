@@ -1,0 +1,8 @@
+[submodule "wingetopt"]
+	path = wingetopt
+	url = https://github.com/DigitalCompactCassette/wingetopt.git
+	branch = master
+[submodule "mjpegtools"]
+	path = mjpegtools
+	url = https://github.com/DigitalCompactCassette/mjpegtools.git
+	branch = master
