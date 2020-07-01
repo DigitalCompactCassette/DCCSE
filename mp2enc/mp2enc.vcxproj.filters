@@ -74,5 +74,8 @@
     <ClInclude Include="..\mjpegtools\utils\mjpeg_logging.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\wingetopt\src\getopt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
