@@ -6,3 +6,7 @@
 	path = mjpegtools
 	url = https://github.com/DigitalCompactCassette/mjpegtools.git
 	branch = master
+[submodule "inttypes"]
+	path = inttypes
+	url = https://github.com/mattn/gntp-send.git
+	branch = master
